@@ -1,2 +1,2 @@
-# SCT_WD_2
+# Web-Calculator
 Calculator Web Application (Handles operations, parsing, and keyboard keys).
